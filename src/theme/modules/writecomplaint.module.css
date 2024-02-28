@@ -1,0 +1,15 @@
+.colorizeLabel {
+    color: #0f077a !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    margin-bottom: 0.5rem !important;
+    margin-top: 1rem !important;
+}
+
+.errorMessage {
+    color: #7a0707 !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    margin-bottom: 0.5rem !important;
+    margin-top: 1rem !important;
+}

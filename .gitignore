@@ -27,3 +27,9 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+
+# La carpeta que contiene los archivos de la aplicación de Android
+/android/
+
+# El archivo de configuración de firebase y otras variables de entorno
+.env

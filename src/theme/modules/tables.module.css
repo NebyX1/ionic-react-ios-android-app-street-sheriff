@@ -1,0 +1,27 @@
+.problemCard {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .problemCard ion-card-header {
+    padding-bottom: 0;
+  }
+  
+  .problemCard ion-card-title {
+    font-size: 1.2em;
+    font-weight: bolder;
+  }
+  
+  .problemCard ion-card-subtitle {
+    font-size: 1em;
+    color: rgba(14, 5, 100);
+    font-weight:bold;
+  }
+  
+  .problemCard p {
+    margin: 5px 0;
+    font-size: 1em;
+    color: #333;
+  }
+
+  

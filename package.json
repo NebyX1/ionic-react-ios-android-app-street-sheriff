@@ -1,6 +1,9 @@
 {
   "name": "street-sherif",
   "private": true,
+  "author": "Neby_X",
+  "license": "MIT",
+  "description": "La mejor aplicación para reportar y solucionar problemas en tu comunidad",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -58,6 +61,5 @@
     "typescript": "^5.1.6",
     "vite": "^5.0.0",
     "vitest": "^0.34.6"
-  },
-  "description": "An Ionic project"
+  }
 }

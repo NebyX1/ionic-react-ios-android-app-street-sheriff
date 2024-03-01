@@ -33,3 +33,5 @@ yarn-error.log*
 
 # El archivo de configuración de firebase y otras variables de entorno
 .env
+
+resources/android/**/*
